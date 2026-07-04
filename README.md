@@ -51,25 +51,21 @@ Paste any meeting transcript (or upload a `.txt` file), and the AI extracts:
 
 ### Backend Setup
 
-```bash
 cd backend
 py -3.11 -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 Create a .env file inside backend/:
 
-text
 
 GROQ_API_KEY=your_key_here
 Run the server:
 
-Bash
 
 uvicorn main:app --reload
 Backend runs on http://127.0.0.1:8000
 
 Frontend Setup
-Bash
 
 cd frontend
 npm install
@@ -85,11 +81,11 @@ Sage green highlights for success + accents
 Editorial spacing and Fraunces serif headlines
 Inspired by the design ethos of Stripe, Vercel, and Framer.
 
-🌐 Live Demo
-Coming soon
 
 🧠 Why I Built This
 Every AI project I built before this was Streamlit-only. MeetingMind AI was my first real leap into full-stack architecture — separating frontend and backend, building REST APIs, integrating a database, and shipping a real product experience.
+
+If you find this helpful, plaese give it a star ✨ and check out my other repos too...
 
 This is what real AI engineering looks like beyond the notebook.
 
