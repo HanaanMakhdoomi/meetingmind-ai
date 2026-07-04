@@ -36,8 +36,6 @@ Paste any meeting transcript (or upload a `.txt` file), and the AI extracts:
 
 ### 👉 [meetingmind-ai-gold.vercel.app](https://meetingmind-ai-gold.vercel.app/)
 
-_First request may take ~30-60s to wake up the backend (free tier)._
-
 ---
 
 ## ✨ Features
