@@ -7,7 +7,7 @@ export default function History({ onBack }) {
 
   useEffect(() => {
     axios
-      .get('http://127.0.0.1:8000/history')
+      .get(`${import.meta.env.VITE_API_URL}/history`)
       .then((res) => setMeetings(res.data))
       .catch(() => setMeetings([]))
       .finally(() => setLoading(false));

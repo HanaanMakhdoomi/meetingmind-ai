@@ -39,7 +39,7 @@ const handleFileUpload = (e) => {
     setResult(null);
 
     try {
-      const res = await axios.post('http://127.0.0.1:8000/analyze', { transcript });
+      const res = await axios.post(`${import.meta.env.VITE_API_URL}/analyze`, { transcript });
       setResult(res.data);
       setToast('Analysis complete ✓');
       setTimeout(() => setToast(''), 2500);
