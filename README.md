@@ -85,11 +85,11 @@ Inspired by the design ethos of Stripe, Vercel, and Framer.
 🧠 Why I Built This
 Every AI project I built before this was Streamlit-only. MeetingMind AI was my first real leap into full-stack architecture — separating frontend and backend, building REST APIs, integrating a database, and shipping a real product experience.
 
-If you find this helpful, plaese give it a star ✨ and check out my other repos too...
 
 This is what real AI engineering looks like beyond the notebook.
 
 📄 License
 MIT
 
+If you find this helpful, plaese give it a star ✨ and check out my other repos too...
 Made with 🔥🌿 by Vivi
