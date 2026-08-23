@@ -1,3 +1,8 @@
+## 🌐 Live Demo
+
+ 
+https://meetingmind-ai-gray.vercel.app/
+
 # 🧠 MeetingMind AI
 
 An AI-powered meeting assistant that transforms meeting recordings into accurate transcripts and action-oriented summaries.
