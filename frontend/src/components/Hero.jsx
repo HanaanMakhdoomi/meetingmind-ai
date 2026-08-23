@@ -344,9 +344,10 @@ export default function Hero({ onStart }) {
           />
 
           <p style={{ color: 'var(--color-muted)', fontSize: '14px' }}>
-            Made with 🔥🌿 by{' '}
-            <span style={{ color: 'var(--color-sage)', fontWeight: 600 }}>Vivi</span>
-          </p>
+           Made with ❤️ by{' '}
+<span style={{ color: 'var(--color-sage)', fontWeight: 600 }}>
+  MeetingMind AI
+</span> </p>
         </div>
       </section>
     </>
